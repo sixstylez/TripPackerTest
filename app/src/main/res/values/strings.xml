@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trip Packer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="addItemTxt">Add New Item</string>
+    <string name="hintAddItemTxt">Input Item Here</string>
+    <string name="addBtnTxt">Add</string>
+    <string name="bagSelectionTxt">Choose A Bag</string>
+    <string name="deleteItemTxt">Delete Item</string>
+    <string name="splashTxt">Trip Packer</string>
+</resources>
